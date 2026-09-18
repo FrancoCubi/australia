@@ -241,3 +241,21 @@ Regulación Argentina
 - Hierbas permitidas (ANMAT): https://www.anmat.gob.ar/Alimentos/Suplementos_Dietarios-Hierbas.pdf
 - Prohibición productos ashwagandha, Disp. 1580/2022: https://www.boletinoficial.gob.ar/detalleAviso/primera/257961/20220223
 - Prohibición 5-HTP, Disp. 8699/2023: https://www.boletinoficial.gob.ar/detalleAviso/primera/296409/20231020
+
+---
+
+## 10. Preguntas de formulación resueltas (sesión 2)
+
+### 10.1 ¿El Producto 1 se siente desde la primera toma?
+
+Parcialmente. Noche 1: relajación (L-teanina, 30 a 60 min) y latencia algo menor (glicina, demostrada por polisomnografía en n=11). El "sueño más profundo" se mide (llegada más rápida al sueño de ondas lentas) pero no se percibe; lo que se percibe es despertarse más descansado a los 2 a 3 días. Menos despertares: efecto del magnesio, a los 14 días. No es un hipnótico y la respuesta individual varía. Comunicación autorizada: "noches 1 a 3: te relajás y te dormís algo más rápido; semana 1: más energía al despertar; semana 2: menos despertares".
+
+### 10.2 ¿Fusionar Producto 1 y Producto 2 en uno solo?
+
+Científicamente posible (sin interacciones ni topes superados). No recomendado para el MVP: el azafrán arrastra incertidumbre regulatoria a todo el lanzamiento, encarece el producto de entrada, y azafrán/pasiflora amargan un polvo para beber mientras la melisa fitosoma dispersa mal en agua. Evaluar como extensión de línea con datos de venta.
+
+### 10.3 ¿Gomitas?
+
+- **Producto 1 en gomitas: No la deberíamos implementar.** Una gomita admite 0,5 a 1 g de activos; el Producto 1 lleva ~5 g. Serían 8 a 10 gomitas por noche con 20 a 30 g de azúcar. Bajar la dosis saca la fórmula de la evidencia (no hay ensayos de glicina <3 g ni de Mg bisglicinato <250 mg elemental).
+- **Producto 2 en gomitas: posible con matices.** ~730 mg de activos entran en 2 gomitas. Usar extracto estándar de melisa (no fitosoma), enmascarar amargor, base sin azúcar (alulosa o fibra; más cara, posible molestia digestiva). Decidir con intención por el posicionamiento de marca (gomita = golosina).
+- Formatos válidos para el Producto 1, de mejor a peor: sobre de polvo, stick pack, shot líquido.
