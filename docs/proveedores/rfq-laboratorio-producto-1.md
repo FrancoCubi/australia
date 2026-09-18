@@ -8,7 +8,7 @@ Dos versiones: un mensaje corto de primer contacto (WhatsApp o correo breve) y e
 
 > Hola, mi nombre es [Nombre] y estoy desarrollando una marca de suplementos enfocada en el sueño, con venta directa online en Argentina.
 >
-> Busco un laboratorio con RNE habilitado para elaborar y ayudarme a registrar ante ANMAT un suplemento dietario en polvo, en sobres monodosis de aprox. 6 g, con tres ingredientes: glicina, bisglicinato de magnesio y L-teanina. Sin hierbas, sin azúcar, sin colorantes.
+> Busco un laboratorio con RNE habilitado para elaborar y ayudarme a registrar ante ANMAT un suplemento dietario en polvo, en sobres monodosis de aprox. 5 g, con solo tres ingredientes: glicina, bisglicinato de magnesio y L-teanina. Etiqueta limpia: sin hierbas, sin azúcar, sin aromas, sin excipientes si es técnicamente viable.
 >
 > ¿Trabajan con este tipo de producto y formato? Si es así, les envío la especificación completa para cotizar. Gracias.
 
@@ -27,34 +27,36 @@ Estamos en la etapa de desarrollo de nuestro primer producto y buscamos un labor
 ### 1. Descripción del producto
 
 - Tipo: suplemento dietario en polvo para disolver en agua.
-- Formato: sobre monodosis (sachet o stick pack) de aproximadamente 5,5 a 6,5 g.
+- Concepto: etiqueta limpia. El objetivo es que la lista de ingredientes contenga únicamente los tres activos, sin excipientes de ningún tipo. Pedimos un prototipo así (versión A) y uno de respaldo con excipientes mínimos (versión B), detallados más abajo.
+- Formato: sobre monodosis (sachet o stick pack) con barrera de aluminio, de aproximadamente 5 g.
 - Presentación: caja de 30 sobres (provisión para un mes).
 - Público: adultos.
 - Modo de uso: 1 sobre disuelto en 150 a 200 ml de agua, 1 hora antes de acostarse.
 - Denominación regulatoria tentativa: "Suplemento dietario a base de glicina, magnesio y L-teanina, en polvo, para adultos".
-- Posicionamiento: producto sin melatonina, sin hierbas, sin azúcar agregada, sin colorantes, sin gluten, apto vegano.
+- Posicionamiento: producto sin melatonina, sin hierbas, 0 g de azúcar agregada, sin aromas ni endulzantes, sin colorantes, sin gluten, apto vegano.
 
 ### 2. Fórmula por sobre (dosis diaria)
 
 Ingredientes activos:
 
-1. Glicina: 3.000 mg. Grado alimentario, pureza mínima 99%, origen no animal.
-2. Bisglicinato de magnesio: cantidad necesaria para aportar 250 mg de magnesio elemental (aprox. 1.780 mg de quelato). Requisito excluyente: quelato completo, no tamponado con óxido ni carbonato de magnesio; contenido de magnesio entre 13,5% y 14,5%. Solicitamos certificado de análisis con magnesio elemental y metales pesados.
-3. L-teanina: 200 mg. Isómero L con pureza mínima 98%, obtenida por vía enzimática o fermentativa (Suntheanine o equivalente). Requisito excluyente: no DL-teanina sintética; no derivada de extracto de té (sin cafeína). Solicitamos certificado de pureza quiral.
+1. Glicina: 3.000 mg. Grado alimentario, pureza mínima 99%, origen no animal. Polvo puro, sin vehículo ni antiapelmazante incorporado.
+2. Bisglicinato de magnesio: cantidad necesaria para aportar 250 mg de magnesio elemental (aprox. 1.780 mg de quelato). Requisitos excluyentes: quelato completo, no tamponado con óxido ni carbonato de magnesio; contenido de magnesio entre 13,5% y 14,5%; polvo puro y micronizado, sin maltodextrina, sílice u otro vehículo incorporado por el fabricante de la materia prima. Solicitamos certificado de análisis con magnesio elemental y metales pesados.
+3. L-teanina: 200 mg. Isómero L con pureza mínima 98%, obtenida por vía enzimática o fermentativa (Suntheanine o equivalente). Requisitos excluyentes: no DL-teanina sintética; no derivada de extracto de té (sin cafeína); polvo puro sin vehículo. Solicitamos certificado de pureza quiral.
 
-Excipientes (abiertos a su propuesta técnica, con estas restricciones):
+Versión A (objetivo): únicamente los tres activos anteriores. Ningún excipiente. La glicina aporta el dulzor. Necesitamos que evalúen la viabilidad técnica de esta versión en cuanto a fluidez de llenado, homogeneidad de la mezcla, apelmazamiento y disolución, y que nos indiquen con precisión qué obstáculo aparece si consideran que no es viable.
 
+Versión B (respaldo, solo si la A no resulta viable o el panel sensorial la rechaza), con estas restricciones:
+
+- Aroma natural en la mínima cantidad. Excluidos: cacao, café y té verde.
 - Ácido cítrico en la mínima cantidad necesaria.
-- Aroma natural. Sabores a evaluar: manzanilla y miel, vainilla, frutos rojos o manzana y canela. Excluidos: cacao, café y té verde.
-- Antiapelmazante (dióxido de silicio) hasta 1%.
-- Endulzante: idealmente ninguno, ya que la glicina aporta dulzor. Si el panel sensorial lo requiere, glucósidos de esteviol.
-- Sin azúcar agregada, sin polialcoholes, sin colorantes, sin lactosa, sin gluten.
+- Antiapelmazante (dióxido de silicio) solo si la prueba de llenado lo exige, hasta 1%.
+- Sin endulzantes de ningún tipo, sin azúcar agregada, sin polialcoholes, sin colorantes, sin lactosa, sin gluten.
 
 ### 3. Servicios que necesitamos cotizar
 
-1. Desarrollo de fórmula y ajuste sensorial (hasta 3 variantes de sabor para prueba).
-2. Prueba de disolución y sedimentación del polvo en agua tibia y fría.
-3. Muestras piloto: 50 a 100 sobres para evaluación interna, con su costo.
+1. Desarrollo de los dos prototipos (versión A sin excipientes y versión B con excipientes mínimos) e informe técnico de viabilidad de la versión A.
+2. Prueba de disolución, sedimentación y fluidez de llenado del polvo, en agua tibia y fría, para ambas versiones.
+3. Muestras piloto: 50 a 100 sobres de cada versión para panel sensorial propio, con su costo.
 4. Estudio de estabilidad acelerado para definir vencimiento.
 5. Análisis de liberación de lote: microbiología, metales pesados, cuantificación de magnesio, glicina y L-teanina.
 6. Elaboración y envasado en sobres monodosis. Indicar si el material del sobre es propio o lo debemos proveer, y si puede ser impreso o con etiqueta.
@@ -84,7 +86,8 @@ Regulatorias:
 Insumos:
 
 6. ¿Disponen de los tres ingredientes o deben importarlos? En ese caso, indicar origen, proveedor y plazo de importación.
-7. ¿Pueden enviarnos la ficha técnica y un certificado de análisis modelo del bisglicinato de magnesio y de la L-teanina que utilizarían?
+7. ¿Pueden enviarnos la ficha técnica y un certificado de análisis modelo del bisglicinato de magnesio y de la L-teanina que utilizarían? Necesitamos confirmar que las materias primas son polvo puro, sin maltodextrina, sílice u otro vehículo, porque cualquier aditivo presente en la materia prima debería declararse en el rótulo y rompería el concepto de tres ingredientes.
+7 bis. ¿Han elaborado antes polvos en sobre sin ningún excipiente? ¿Qué experiencia tienen con el llenado de mezclas de aminoácidos y quelatos de magnesio sin antiapelmazante?
 
 Operativas:
 
@@ -117,3 +120,5 @@ Saludos cordiales,
 | Regulatorio | Explican el proceso RNE/RNPA y el rol del Director Técnico | Prometen registro "en dos semanas" o proponen vender sin RNPA |
 | Registro | Ofrecen inscribir a nombre de nuestra empresa | Solo aceptan registro a su nombre (dependencia total del laboratorio) |
 | Costo | Desglosan activos, excipientes, sobre, estuche y análisis | Un solo número sin apertura |
+| Etiqueta limpia | Analizan la versión A en serio, nombran el obstáculo concreto si lo hay (fluidez, sedimento) y proponen solución sin aditivos (micronizado, envase barrera) | Descartan la versión A de entrada "porque siempre lleva sílice y aroma" sin haberla probado |
+| Materias primas | Ficha técnica confirma polvo puro sin vehículo | La ficha del bisglicinato o la teanina lista maltodextrina o sílice y no lo mencionan |

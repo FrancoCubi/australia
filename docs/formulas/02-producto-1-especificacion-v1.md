@@ -48,21 +48,39 @@ Se revisó cada decisión de la fórmula contra los ensayos originales. La estru
 | L-teanina | 200 mg | Isómero L ≥98%, obtenida por vía enzimática o fermentativa. Certificado de pureza quiral. Sin cafeína (no derivada de extracto de té). |
 | **Glicina total aportada** (libre + del quelato) | **aprox. 4.500 mg** | Dentro del tope argentino de 6.000 mg diarios. |
 
-| Excipientes (a definir con el laboratorio) | Función | Restricciones |
-|---|---|---|
-| Ácido cítrico | Acidez, sabor | Mínimo necesario |
-| Aroma natural | Sabor | Sin cacao ni café (teobromina y cafeína) ni té verde. Opciones sugeridas: manzanilla y miel, vainilla, frutos rojos, manzana y canela. |
-| Dióxido de silicio | Antiapelmazante | ≤1% |
-| Glucósidos de esteviol | Endulzante, solo si hace falta | La glicina ya aporta dulzor (aprox. 70% del azúcar). Probar primero sin endulzante. |
-| Sin azúcar agregada, sin colorantes, sin gluten, sin lactosa, apto vegano | | |
+### 2.1 Decisión de etiqueta limpia: solo los tres ingredientes
 
-Peso aproximado del sobre: 5,5 a 6,5 g. Volumen de disolución: 150 a 200 ml.
+**Objetivo del fundador:** que la lista de ingredientes diga únicamente glicina, bisglicinato de magnesio y L-teanina. Cero azúcar agregada, sin aromas, sin endulzantes, sin antiapelmazantes, sin acidulantes.
+
+**Veredicto: Implementar con matices.** La eficacia no depende de ningún excipiente, así que la ciencia no cambia. Los riesgos son sensoriales y de fabricación, y se resuelven con especificación y pruebas:
+
+| Riesgo sin excipientes | Por qué ocurre | Cómo se resuelve |
+|---|---|---|
+| Sabor | La glicina es dulce (aprox. 70% del dulzor del azúcar, 3 g equivalen a unos 2 g de azúcar en 150 ml). La L-teanina es neutra. El bisglicinato aporta un leve gusto mineral. El resultado esperado es una bebida suavemente dulce con un fondo mineral leve. | Panel sensorial de al menos 10 personas del público objetivo antes de decidir. Recomendar disolver en agua tibia o en una infusión sin cafeína (manzanilla, tilo), lo que además refuerza el ritual. |
+| Apelmazamiento | Glicina y bisglicinato absorben humedad. | Sobre monodosis con barrera de aluminio, llenado en ambiente de baja humedad. Al ser monodosis, el polvo no se expone al aire entre tomas. Pedir al laboratorio la prueba de fluidez para el llenado. |
+| Sedimento | El bisglicinato de magnesio es moderadamente soluble y se disuelve despacio. | Especificar bisglicinato micronizado. Instrucción de uso: "revolver 20 segundos; si queda un resto en el fondo, agregar un poco de agua y terminar". Agua tibia acelera la disolución. |
+| Ingredientes con "carrier" oculto | Algunos bisglicinatos y teaninas se venden granulados con maltodextrina o con dióxido de silicio ya incorporado. Eso obligaría a declararlos. | Exigir al proveedor materias primas en polvo puro, sin vehículo ni antiapelmazante incorporado, y verificarlo en la ficha técnica. |
+
+**Plan:** pedir al laboratorio dos prototipos. Versión A, solo tres ingredientes, es el objetivo y se lanza si el panel la aprueba (menos del 30% de rechazo). Versión B, con aroma natural y ácido cítrico en la mínima cantidad, se guarda como respaldo o como segundo sabor futuro. No se prueba ninguna versión con azúcar ni polialcoholes.
+
+| Excipientes | Versión A (objetivo) | Versión B (respaldo) |
+|---|---|---|
+| Azúcar agregada | 0 g | 0 g |
+| Aroma natural | No | Sí, sin cacao, café ni té verde |
+| Ácido cítrico | No | Mínimo necesario |
+| Antiapelmazante | No | Solo si la prueba de llenado lo exige |
+| Endulzante | No | No (la glicina alcanza) |
+| Colorantes, gluten, lactosa, polialcoholes | No | No |
+
+Peso aproximado del sobre en versión A: aprox. 5,0 g (3.000 mg de glicina + aprox. 1.780 mg de bisglicinato + 200 mg de L-teanina). Volumen de disolución: 150 a 200 ml.
+
+**Rotulado nutricional esperado:** azúcares 0 g. La glicina es un aminoácido, no un azúcar, aunque sea dulce. El rótulo puede declarar "sin azúcar agregada" y "0 g de azúcares" con respaldo analítico.
 
 ---
 
 ## 3. Modo de uso y rotulado
 
-- **Modo de uso:** disolver el contenido de 1 sobre en 150 a 200 ml de agua tibia o fría y beber 1 hora antes de acostarse. Uso diario.
+- **Modo de uso:** disolver el contenido de 1 sobre en 150 a 200 ml de agua tibia o en una infusión sin cafeína, revolver 20 segundos y beber 1 hora antes de acostarse. Uso diario.
 - **Denominación regulatoria esperada:** "Suplemento dietario a base de glicina, magnesio y L-teanina, en polvo, para adultos".
 - **Claims autorizados por la evidencia:** "ayuda a relajarte antes de dormir", "puede acortar el tiempo que tardás en dormirte", "con uso continuado puede mejorar la calidad percibida del sueño". Toda declaración de propiedad saludable debe pasar por el marco de la Resolución Conjunta 33/2025.
 - **Leyendas obligatorias ANMAT:** "Consulte a su médico y/o farmacéutico antes de consumir este producto"; "No utilizar en caso de embarazo, lactancia ni en niños"; "Mantener fuera del alcance de los niños"; "Supera la ingesta diaria de referencia" si aplica según el cálculo final de magnesio.
@@ -85,6 +103,6 @@ Peso aproximado del sobre: 5,5 a 6,5 g. Volumen de disolución: 150 a 200 ml.
 
 1. Confirmar con el laboratorio o Director Técnico el tope de L-teanina admitido en el art. 1381 del CAA. Si 200 mg no fuera admisible, la fórmula pierde un pilar y hay que rediseñar.
 2. Confirmar el límite superior vigente de magnesio para suplementos y el cálculo de porcentaje de IDR para el rotulado.
-3. Prueba de disolución y sedimentación del bisglicinato en agua (es moderadamente soluble). Si sedimenta, evaluar micronizado o una fracción de citrato de magnesio manteniendo el bisglicinato como forma principal.
-4. Desarrollo de sabor con panel de al menos 10 personas del público objetivo.
+3. Prueba de disolución, sedimentación y fluidez de llenado de la versión A (solo tres ingredientes) con bisglicinato micronizado. Si sedimenta de forma inaceptable, evaluar granulometría más fina antes que agregar excipientes.
+4. Panel sensorial de al menos 10 personas del público objetivo comparando versión A (sin aroma) y versión B (aroma natural). Criterio: se lanza la A si el rechazo es menor al 30%.
 5. Estudio de estabilidad acelerado (3 meses) para fijar vencimiento inicial de 18 a 24 meses.
