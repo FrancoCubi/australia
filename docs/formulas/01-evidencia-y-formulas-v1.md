@@ -23,7 +23,7 @@ Jerarquía usada: meta-análisis y revisiones sistemáticas > RCT > observaciona
 
 | Ingrediente | Dosis con evidencia | Qué muestra la evidencia | Tiempo hasta notar efecto | Veredicto |
 |---|---|---|---|---|
-| **Glicina** | 3 g antes de dormir | RCTs pequeños (Yamadera 2007 con polisomnografía: menor latencia al sueño y al sueño profundo; Inagawa 2006; Bannai 2012: menos somnolencia diurna tras restricción de sueño). Revisión sistemática Inose 2024 (Nutrients). Limitación: muestras chicas, mayoría de un mismo grupo (Ajinomoto). Sin tolerancia ni rebote. | Misma noche (latencia); 1 a 2 semanas (calidad, energía diurna) | **Implementar** |
+| **Glicina** | 3 g antes de dormir | **Corregido en septiembre 2026, ver sección 11.** Solo 3 ensayos de eficacia en humanos, unos 33 participantes en total, los tres ligados a Ajinomoto, fabricante de glicina. Yamadera 2007 con polisomnografía es simple ciego y n=11. En Bannai 2012 el objetivo de somnolencia **no** alcanzó significación. Sin ninguna replicación independiente en veinte años, sin meta-análisis y sin revisión Cochrane. La revisión sistemática independiente Soh 2024 (GeroScience) es positiva en dirección pero marca alto riesgo de sesgo. Sin tolerancia ni rebote. | Misma noche (latencia); 1 a 2 semanas (calidad, energía diurna) | **Implementar con matices** (antes decía "Implementar", era demasiado fuerte) |
 | **Magnesio bisglicinato** | 250 mg de Mg elemental | RCT Schuster 2025, n=155: reducción del Índice de Severidad de Insomnio mayor que placebo (−3,9 vs −2,3), efecto pequeño (d=0,2), más marcado en quienes consumen poco magnesio en la dieta. Meta-análisis Mah & Pitre 2021: latencia −17 min, evidencia de baja calidad. Revisión sistemática 2026 de 15 RCTs: evidencia mixta. | Mayor parte del efecto en los primeros 14 días | **Implementar con matices** (efecto modesto, mejor en ingesta baja) |
 | **Magnesio L-treonato** | 1 a 2 g de treonato por día (72 a 144 mg de Mg) | RCT Hausenblas 2024, n=80, 21 días: mejora subjetiva y objetiva (anillo Oura), mejor funcionamiento diurno. RCT Lopresti 2025/26, n=100, 6 semanas, 2 g/día. Ambos financiados por el fabricante (Magtein). | 3 semanas | **Implementar con matices** (caro; 500 mg es la mitad de la dosis estudiada) |
 | **L-teanina** | 200 mg (rango 200 a 450 mg) | Meta-análisis Bulman 2025 (Sleep Medicine Reviews), 18 estudios, n=897: mejora latencia subjetiva, disfunción diurna y calidad global. Revisión sistemática Cotter 2025, 13 ensayos, n=550: 200 a 450 mg seguros y eficaces. Actúa sobre relajación y estrés más que como inductor. Sin tolerancia hasta 8 semanas. | 30 a 60 minutos (relajación); 4 semanas (PSQI) | **Implementar con matices** |
@@ -259,3 +259,81 @@ Científicamente posible (sin interacciones ni topes superados). No recomendado 
 - **Producto 1 en gomitas: No la deberíamos implementar.** Una gomita admite 0,5 a 1 g de activos; el Producto 1 lleva ~5 g. Serían 8 a 10 gomitas por noche con 20 a 30 g de azúcar. Bajar la dosis saca la fórmula de la evidencia (no hay ensayos de glicina <3 g ni de Mg bisglicinato <250 mg elemental).
 - **Producto 2 en gomitas: posible con matices.** ~730 mg de activos entran en 2 gomitas. Usar extracto estándar de melisa (no fitosoma), enmascarar amargor, base sin azúcar (alulosa o fibra; más cara, posible molestia digestiva). Decidir con intención por el posicionamiento de marca (gomita = golosina).
 - Formatos válidos para el Producto 1, de mejor a peor: sobre de polvo, stick pack, shot líquido.
+
+---
+
+## 11. Reauditoría adversarial de la evidencia (septiembre 2026)
+
+Motivo: el fundador observó que estos productos casi no se pautean en redes y planteó la hipótesis de que la fórmula podría haberse refutado. Se hizo una búsqueda deliberadamente hostil, buscando evidencia en contra y no a favor.
+
+### 11.1 Conclusión
+
+**No existe ninguna evidencia de que esta fórmula no funcione.** No hay un solo ensayo nulo o negativo de glicina para el sueño, ninguna replicación fallida, ninguna retractación y ninguna acción regulatoria contra estos ingredientes.
+
+Pero el hallazgo honesto es el inverso, y es un riesgo real: **la pata de glicina se apoya en una literatura muy delgada y con conflicto de interés.** No es evidencia de ausencia de efecto, es ausencia de evidencia.
+
+La distinción es crítica y hay que sostenerla con rigor. Nadie corrió el ensayo que podría matar a la glicina. Eso no es lo mismo que un certificado de buena salud.
+
+### 11.2 Corrección al veredicto anterior
+
+Este documento decía "Implementar" para la glicina y la llamaba la pata más fuerte de la fórmula. **Era demasiado fuerte y queda corregido a "Implementar con matices".**
+
+| | Glicina 3 g | Magnesio bisglicinato 250 mg | L-teanina 200 mg |
+|---|---|---|---|
+| Ensayos de eficacia en humanos | 3 | Varios | 19 artículos en meta-análisis |
+| Participantes | aprox. 33 en total | 155 solo en Schuster 2025 | 897 |
+| Replicación independiente | **Ninguna en veinte años** | Sí, universitaria | Sí |
+| Meta-análisis | **No existe** | Mah 2021, calidad baja | Bulman 2025 |
+| Financiamiento de los ensayos base | **Ajinomoto, fabricante de glicina** | Leibniz Hannover y Murdoch | Mixto |
+| Riesgo de sesgo | **Alto** | Moderado | Moderado, alta heterogeneidad |
+
+**El orden de solidez real de la fórmula es L-teanina, después magnesio, después glicina.** Es lo contrario de lo que este documento afirmaba.
+
+### 11.3 Los cuatro problemas concretos
+
+1. **Conflicto de interés en la glicina.** Entre tres y cuatro de cada cinco autores de los ensayos fundacionales trabajaban en Ajinomoto. Una fuente secundaria, de baja autoridad y a verificar, sostiene que los diez participantes de Bannai 2012 eran empleados de Ajinomoto y que el comité de ética era de la propia empresa, mientras el trabajo declara no tener relaciones comerciales. Ajinomoto además patentó un agente para trastornos del sueño con glicina. Ninguno de los tres ensayos parece haber sido registrado de forma prospectiva.
+2. **Resultados nulos dentro de los propios ensayos.** En Bannai 2012 la reducción de fatiga fue significativa pero **el objetivo de somnolencia no lo fue**, y el efecto apareció el día 1 y no el día 3. Yamadera 2007, el único con polisomnografía, es **simple ciego con n=11** sobre un objetivo subjetivo.
+3. **Subjetivo contra objetivo en la teanina.** El meta-análisis de Bulman 2025 encontró mejora significativa en latencia subjetiva, disfunción diurna y calidad global, pero **las medidas objetivas no mejoraron**. El texto de marketing debe decir "calidad percibida", nunca "sueño medible más profundo".
+4. **Problema farmacocinético del mecanismo.** La glicina atraviesa la barrera hematoencefálica de forma limitada y el líquido cefalorraquídeo tiene glicina unas cien veces por debajo del plasma. El estudio en roedores que elevó la glicina central usó 2 g por kilo, que equivale a unos 140 g en una persona de 70 kg. Los ensayos de esquizofrenia necesitaron 30 a 60 g diarios para mover la glicina central. **Nuestros 3 g son unas cincuenta veces menos.**
+
+   Consecuencia directa para el texto: **no se puede afirmar que la glicina actúa sobre receptores NMDA ni sobre el núcleo supraquiasmático.** El mecanismo defendible a 3 g es el termorregulador, es decir vasodilatación periférica, aumento de temperatura en manos y pies y caída de la temperatura corporal central. Ese es el que hay que comunicar, y además coincide con lo que los usuarios japoneses describen en las reseñas.
+
+### 11.4 Rechazos regulatorios, el dato más duro
+
+**En la Unión Europea ninguno de los tres activos tiene un claim de sueño autorizado.**
+
+| Ingrediente | Situación |
+|---|---|
+| L-teanina | EFSA evaluó y **rechazó** el claim de mantenimiento del sueño normal en 2011, opinión 2238, junto con el de estrés |
+| Glicina | No existe ningún claim autorizado. No se pudo determinar si fue rechazado o nunca presentado |
+| Magnesio | Autorizado para cansancio y fatiga y para función psicológica normal. **Nunca para el sueño** |
+
+Además, la guía de la academia estadounidense de medicina del sueño de 2017 recomienda no usar melatonina ni valeriana para el insomnio, y **ni siquiera evaluó** la glicina, la teanina ni el magnesio: no llegaron al umbral de evidencia para ser considerados.
+
+Esto no impide vender. Impide prometer.
+
+### 11.5 Por qué casi nadie vende esta fórmula, que no es por eficacia
+
+1. **Carga de pastillas.** 3 g de glicina son seis cápsulas de 500 mg. Las cápsulas cuestan mucho más por gramo que el polvo. Los ensayos usaron polvo disuelto en agua. Por eso la glicina a dosis clínica casi no aparece en las fórmulas en cápsula del mercado occidental. **Es un problema de formato, no de evidencia, y es una oportunidad para nosotros**, porque el polvo es la forma fiel a la investigación.
+2. **La glicina es un commodity sin dueño.** Cuesta centavos por dosis, no tiene patente ni exclusividad y cualquiera la copia. En la industria, la inversión en crear demanda la ponen los proveedores de ingredientes de marca registrada, que cofinancian el marketing de las marcas que los usan. El 63% de los consumidores paga más por un suplemento con ingrediente patentado. **Nadie tiene incentivo para crear demanda de glicina genérica.** Ajinomoto sí lo tuvo, porque fabrica la glicina, y por eso construyó la categoría en Japón durante veintiún años.
+3. **La categoría no se retiró, está entrando.** No se encontró ninguna discontinuación ni reformulación que quite glicina. Al contrario: AG1, la marca de suplementos con mayor presupuesto de marketing del mundo, lanzó en agosto de 2025 su primer producto nuevo en quince años, y es un sobre sin melatonina con glicina 2 g, magnesio 250 mg y L-teanina 200 mg, a 79 dólares por mes. Lo está pauteando con publicidad en podcasts y una campaña que cubrió Ad Age.
+
+### 11.6 Qué se puede y qué no se puede decir
+
+**Sí:**
+- "Te ayuda a relajarte antes de dormir", que es la pata más sólida y viene de la teanina.
+- "Puede mejorar la calidad percibida del descanso", siempre con la palabra percibida.
+- "Acompaña la caída natural de la temperatura corporal que precede al sueño", que es el mecanismo defendible de la glicina.
+- La aclaración obligatoria de marca: la terapia cognitivo-conductual y la higiene del sueño siguen siendo la intervención con más evidencia; esto es un complemento.
+
+**No:**
+- "Clínicamente probado". Hay un antecedente de demanda colectiva contra Relaxium por esa frase.
+- "Trata el insomnio", que convierte al suplemento en medicamento no aprobado.
+- Cualquier afirmación sobre arquitectura objetiva del sueño: sueño profundo medible, REM, eficiencia.
+- Cualquier claim de sueño en la Unión Europea, para cualquiera de los tres.
+
+### 11.7 El riesgo que hay que asumir por escrito
+
+Un solo ensayo independiente bien diseñado podría tumbar la pata de glicina. Treinta y tres personas, un fabricante, cero replicaciones, cero registros previos.
+
+Eso no es motivo para no lanzar, porque la teanina y el magnesio sostienen la fórmula por su cuenta y la glicina no tiene riesgo de seguridad conocido. Pero sí es motivo para **no construir toda la marca sobre la glicina**, y para que el relato de producto se apoye en el magnesio y la teanina, con la glicina como el diferencial que nadie más dosifica bien.
