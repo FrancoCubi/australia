@@ -8,7 +8,26 @@ Fecha: septiembre 2026. Estado: investigación de escritorio. Los dominios de co
 
 ## 1. Conclusión en una línea
 
-**Nadie en el mundo vende exactamente nuestro producto.** Existen tres grupos: los japoneses que dominan la glicina a dosis clínica pero sin magnesio, los estadounidenses que dominan el magnesio + teanina pero sin glicina o con teanina a media dosis, y unos pocos que llegan a las tres dosis correctas pero las entierran en fórmulas de quince ingredientes. La combinación exacta a dosis clínica con etiqueta limpia es un espacio vacío real.
+**Nadie en el mundo vende exactamente nuestro producto.** Se buscó en Japón, Estados Unidos, Reino Unido, Europa continental, Australia, Corea, China, Taiwán, Singapur, India, Brasil, México, Chile, Colombia, Perú y Argentina.
+
+El mercado se divide en cuatro grupos:
+
+1. **Los japoneses** dominan la glicina a dosis clínica en sobre monodosis, pero ninguno lleva magnesio.
+2. **Los estadounidenses y europeos** dominan el magnesio con teanina, pero sin glicina, o con la teanina a la mitad de la dosis.
+3. **Unos pocos llegan a las tres dosis correctas** y las entierran en fórmulas de diez a quince ingredientes.
+4. **Uno solo vende la promesa de cero excipientes**, y es coreano, con una fórmula más simple que la nuestra.
+
+Los cinco que más se acercan:
+
+| Producto | País | Qué comparte con nosotros | Qué le falta o le sobra |
+|---|---|---|---|
+| **Fine Japan Glicina 3000 y Teanina 200** | Japón | Glicina 3.000 mg + teanina 200 mg en stick | Sin magnesio, con maltitol |
+| **Blackmores Sleep Sound** | Australia | Glicina 3,1 g + 320 mg de magnesio en polvo | Lúpulo, calcio, sulfitos, pote con cuchara |
+| **Setu Sleep + Recovery** | India | Glicina 3 g + bisglicinato de magnesio + teanina, en sobre | Agrega cereza ácida |
+| **LABO Sleep DR** | Singapur | Sobre con glicina 3.000 mg + teanina 200 mg | Cambia el magnesio por GABA, endulza con maltitol |
+| **Mag Theanine** (Bio Concepts) | Australia | Glicina + glicinato de magnesio + teanina | Canal profesional, dosis sin verificar |
+
+La combinación exacta a dosis clínica con etiqueta de tres ingredientes es un espacio vacío real.
 
 ---
 
@@ -80,7 +99,7 @@ Fine puntúa mejor que Ajinomoto siendo un tercio del precio. La diferencia es r
 
 ---
 
-## 3. Estados Unidos y Reino Unido: magnesio y teanina, sin glicina
+## 3. Estados Unidos: magnesio y teanina, sin glicina
 
 | Producto | Formato | Activos | Melatonina |
 |---|---|---|---|
@@ -193,11 +212,77 @@ Aviso de método: **no se pudieron obtener reseñas de clientes de ninguno de es
 
 ---
 
-## 5. Argentina: el mercado que nos importa
+## 5. Europa y Oceanía: acá está el competidor más parecido en fórmula
+
+### 5.1 Los tres productos que importan
+
+| Producto | Formato | Fórmula | Aditivos |
+|---|---|---|---|
+| **Blackmores Sleep Sound Magnesium** (Australia) | Pote 187,5 g, medida de 7,5 g, 25 tomas | **Glicina 3,1 g + 320 mg de magnesio elemental** (citrato + glicinato), lúpulo 125 mg, calcio 133 mg | "Sin colorantes, aromas ni endulzantes artificiales, endulzado con ingredientes de origen natural". **Contiene sulfitos** |
+| **Glicinox** (Italia, Vela Farmaceutici) | **Sobre de 4,5 g disuelto en 200 ml de agua, a la noche** | Glicina 1,5 g, GABA 500 mg, inositol 500 mg, **L-teanina 200 mg**, bisglicinato de magnesio | **Maltodextrina, ácido cítrico, bicarbonato de sodio, aroma natural, glucósidos de esteviol** |
+| **Mag Theanine** (Australia, Bio Concepts, registro ARTG 443750) | Canal profesional | **Glicina + glicinato de magnesio + teanina** | No verificado |
+
+**Blackmores es el competidor más parecido en fórmula del mundo:** glicina a dosis clínica más magnesio a dosis clínica, en polvo. Le sobra el lúpulo y el calcio, es pote con cuchara en lugar de sobre, y lleva sulfitos.
+
+**Glicinox es el competidor más parecido en formato:** sobre para disolver en 200 ml a la noche, exactamente nuestro ritual. Pero su glicina está a la mitad de la dosis y su etiqueta lleva cinco aditivos.
+
+**Mag Theanine, de un laboratorio australiano de canal profesional, es sobre el papel la fórmula más parecida a la nuestra que existe.** No se pudieron verificar sus dosis, formato ni precio. Es el pendiente más importante de esta investigación.
+
+### 5.2 La reseña que más nos tiene que preocupar
+
+Blackmores tiene muy pocas reseñas, entre 3 y 6 según el sitio, así que el dato es débil. Pero el patrón es exactamente el nuestro:
+
+- 5 estrellas: "Es el mejor magnesio del mercado, me encanta la absorción, el sabor y la efectividad." Y "Sabe muy bien en leche."
+- 1 estrella: **"sabor dulce atroz"**.
+
+Es el único producto del mundo con glicina 3 g más magnesio en polvo, y **el sabor divide con violencia**. Confirma que el dulzor de la glicina no es un detalle y que el panel de cata es la decisión más importante que nos queda. Nótese además que Blackmores sí agrega endulzantes de origen natural, así que su dulzor es mayor que el nuestro sería.
+
+En toda la investigación europea, **el sabor es la queja número uno del segmento polvo**, por encima de la eficacia y del precio.
+
+### 5.3 El piso de costo es visible para el cliente
+
+HSN, en España, vende 500 g de glicina pura sin aditivos a 9,99 euros. Son **6 céntimos de euro por dosis de 3 g**.
+
+Cualquier cliente que busque puede encontrar ese número. Nuestro sobre no se vende por los ingredientes: se vende por formato, dosis exacta, sabor resuelto y ritual. Conviene tenerlo presente al fijar el precio y al escribir el texto.
+
+### 5.4 Dónde está el precio de la categoría
+
+Todos los comparables creíbles de Europa y Oceanía caen entre **USD 1,15 y 1,75 por toma**, la misma banda que Estados Unidos y Japón. Es una referencia internacional muy consistente.
+
+### 5.5 Qué se puede decir y qué no, por país
+
+Esto no cambia nuestro plan, porque vendemos en Argentina, pero explica por qué las marcas extranjeras hablan como hablan.
+
+| Mercado | Melatonina | Consecuencia |
+|---|---|---|
+| Reino Unido, Suecia, Australia | De receta | **"Sin melatonina" no diferencia nada**, porque todo lo legal ya lo es |
+| Francia | Permitida bajo 2 mg, con advertencias de la agencia sanitaria | Es el mercado donde el claim "sin melatonina" más pesa |
+| Italia, España, Alemania | Permitida a dosis bajas | Diferencia |
+| **Argentina** | **Venta libre, 3 mg, sin fricción** | **No diferencia.** Coincide con lo que vimos en el mercado local |
+
+En la Unión Europea y el Reino Unido **no existe ningún claim de salud autorizado para la glicina ni para la L-teanina**, y para el magnesio solo se admiten frases de función nerviosa y reducción del cansancio. Por eso Glicinox se describe como "relajación y bienestar mental" y evita visiblemente la palabra sueño, y por eso las marcas británicas se apoyan en nombres de producto, estudios propios y contenido editorial.
+
+En Australia, en cambio, Blackmores puede imprimir "alivia el sueño inquieto" en el envase porque es un medicamento listado.
+
+### 5.6 Las dosis están permitidas en todos lados
+
+| Ingrediente | Evidencia comercial |
+|---|---|
+| Glicina 3 g | Viridian vende 3.000 mg por toma en Reino Unido. Blackmores vende 3,1 g en un producto registrado en Australia. Nutrimuscle sugiere 6 g diarios en Francia |
+| L-teanina 200 mg | Glicinox vende exactamente 200 mg por sobre en Italia. Bioglan usa 200 mg en un producto registrado en Australia |
+| Bisglicinato de magnesio 250 mg elemental | Novoma y Sunday Natural venden 300 mg diarios. Blackmores llega a 320 mg |
+
+Nuestras tres dosis son práctica corriente en mercados regulados. Eso no resuelve la pregunta argentina, pero es un buen argumento para la conversación con el laboratorio.
+
+Detalle técnico a copiar: las marcas europeas especifican **teanina derivada de té verde** por una cuestión de alimento novel europeo. Nosotros especificamos lo contrario, teanina enzimática o fermentativa, para evitar la cafeína. Nuestra razón es mejor para el producto, pero conviene saber que existe la otra convención.
+
+---
+
+## 6. Argentina: el mercado que nos importa
 
 Los dominios de comercio y los regulatorios están bloqueados, así que esto proviene de fragmentos de buscador. Tipo de cambio usado: ARS 1.480 por dólar.
 
-### 5.1 Qué se vende hoy
+### 6.1 Qué se vende hoy
 
 **Con melatonina**, que es el segmento dominante y se vende libre, sin receta, por dos vías paralelas: como medicamento de venta libre y como suplemento dietario.
 
@@ -216,7 +301,7 @@ Los dominios de comercio y los regulatorios están bloqueados, así que esto pro
 | **Nutrifarma Teanina x30** | **L-teanina 200 mg + B6 5 mg, 1 comprimido por día** | no capturado |
 | Vitamin Way Relax Noche x20 | Triptófano 100 mg, tilo 100 mg, melisa 50 mg, B6, B5, folato, B12 | no capturado |
 
-### 5.2 El hallazgo que cambia nuestro mayor riesgo
+### 6.2 El hallazgo que cambia nuestro mayor riesgo
 
 **Nutrifarma vende en farmacias argentinas un suplemento dietario nacional con L-teanina 200 mg por comprimido, un comprimido por día.** Hay además una nota de prensa sobre el lanzamiento de los primeros comprimidos de teanina del país.
 
@@ -226,19 +311,19 @@ Aviso honesto: no se pudo abrir el texto del Código Alimentario ni de ANMAT, as
 
 **El riesgo regulatorio se movió de lugar:** ya no es la teanina, es **la glicina a 3.000 mg**, para la que no se encontró precedente nacional registrado como producto de sueño.
 
-### 5.3 Glicina en Argentina: insumo, no producto
+### 6.3 Glicina en Argentina: insumo, no producto
 
 Se vende glicina pura USP en polvo, en doypacks de 250 a 500 g, por marcas de nutrición deportiva: Everyday Nature, Formula Natural, Sportiano, Breaking Lab. Algunas mencionan "sueño reparador" y dosis de 3 a 5 g diarios en la descripción.
 
 Pero **ninguna está formulada, dosificada ni posicionada como producto de sueño**. No hay dosis unitaria, ni sobre, ni marca. Es un insumo a granel. Espacio en blanco real.
 
-### 5.4 El formato sobre es territorio virgen, y eso corta para los dos lados
+### 6.4 El formato sobre es territorio virgen, y eso corta para los dos lados
 
 El único producto nocturno en sobre del mercado argentino es **Dormirte**, difenhidramina 25 mg sabor limón para disolver en agua caliente. Es un medicamento antihistamínico, no un suplemento.
 
 Diferenciación fuerte, pero sin referencia de comportamiento del consumidor local. Hay que validar que el argentino quiera disolver un polvo de noche en lugar de tragar un comprimido, que es lo que conoce.
 
-### 5.5 Canal: nadie es monotemático de sueño
+### 6.5 Canal: nadie es monotemático de sueño
 
 | Tipo | Ejemplos | Canal |
 |---|---|---|
@@ -249,7 +334,7 @@ Diferenciación fuerte, pero sin referencia de comportamiento del consumidor loc
 
 **Ninguna marca argentina es monotemática de sueño.** Todas son marcas de bienestar, estrés o deporte con un producto nocturno. Lo más cercano a una marca de sueño es un producto, Bagó+ Descanso, no una marca. Ese es nuestro espacio.
 
-### 5.6 El claim "sin melatonina" no funciona acá
+### 6.6 El claim "sin melatonina" no funciona acá
 
 Los productos sin melatonina existen pero **no se comunican como tales**. Se comunican como relax, estrés, descanso, natural. La frase "sin melatonina" aparece casi solo en productos estadounidenses importados.
 
@@ -257,7 +342,7 @@ Razón: en Argentina la melatonina se compra sin receta y sin fricción, así qu
 
 El eje que sí resuena localmente, textual de Vitamin Way: **"no produce dependencia, ni embotamiento matinal, ni altera los reflejos"**.
 
-### 5.7 Reseñas y preguntas en Mercado Libre
+### 6.7 Reseñas y preguntas en Mercado Libre
 
 Confianza baja, no se pudieron abrir las páginas.
 
@@ -268,7 +353,7 @@ Confianza baja, no se pudieron abrir las páginas.
 
 Esas preguntas son el guion de nuestra página de producto.
 
-### 5.8 Referencia de precio
+### 6.8 Referencia de precio
 
 | Segmento | Precio por toma |
 |---|---|
@@ -279,14 +364,85 @@ Un sobre con 3 g de glicina tiene costo de materia prima mayor que un comprimido
 
 ---
 
-## 6. Lecturas para nuestro producto
+## 7. Resto de Latinoamérica: el espejo más útil
+
+### 7.1 Los dos competidores regionales que importan
+
+| Producto | País | Formato | Fórmula | Precio por toma |
+|---|---|---|---|---|
+| **Dose Of, "Cacao para dormir"** | México | Bebida en polvo, 30 porciones | Cacao orgánico + **glicina + inositol + L-teanina + magnesio**, sin melatonina, sin azúcar, sin cafeína. **No publica los miligramos** | MXN 531 la bolsa, aprox. **USD 0,96** |
+| **Puravida Blue Calm** | Brasil | **Sobre de 5 g**, también pote de 250 g | Bisglicinato de magnesio, mio-inositol, triptófano, taurina, espirulina azul como color. Sin azúcar, con ácido cítrico, aroma natural y esteviol | R$ 5,00 a 5,97, aprox. **USD 0,93 a 1,11** |
+
+**Dose Of es el competidor más parecido de la región en concepto:** mismo cuatro de ingredientes menos uno, sin melatonina, en polvo, para la noche, con venta directa propia. Pero no publica las dosis, y con 33 kcal por porción sobre base de cacao es casi seguro que la glicina está muy por debajo de 3 g. Una porción de 3 g de glicina pesa más que casi todo su sobre.
+
+**Puravida Blue Calm es el más parecido en formato:** sobre de 5 g, exactamente nuestro peso, con venta en farmacias grandes, Amazon y Mercado Libre.
+
+Y su texto de marketing es el mejor de la región, honesto y bien calibrado: **"ayuda a calmar la mente y desconectar al final del día sin causar somnolencia inmediata"**. Conviene usarlo como piso de referencia.
+
+### 7.2 El flanco abierto del líder brasileño
+
+En Reclame Aqui hay dos reclamos contra Puravida que valen oro para nosotros:
+
+1. **Manipulación de reseñas.** Un consumidor denuncia que la empresa "aprueba solo las que le convienen para dejar todos los productos con cinco estrellas", y dice que sus puntuaciones de 2 y 3 estrellas nunca se publicaron.
+2. **Efecto paradójico.** Sobre Blue Calm: "sentí el efecto contrario al que el producto promete, mi cuerpo se despertó como si el metabolismo se acelerara y la temperatura corporal también subió, haciéndome transpirar".
+
+**Publicar todas las reseñas sin filtrar, incluidas las malas, es un diferenciador barato y alineado con nuestra misión.** Lo mismo que imprimir los miligramos al frente del sobre, algo que ni Dose Of ni Puravida hacen.
+
+### 7.3 Brasil ya vende nuestras dosis, pero sin marca ni ritual
+
+Las farmacias de manipulación brasileñas venden exactamente nuestro perfil: L-teanina 200 mg en Farmácia Alquimia, hasta 500 mg en otras, y "Glicina 3 g" en Doctor's Pharmacy.
+
+Es un canal funcional pero no aspiracional: cápsulas sin sabor, sin marca, sin ritual, sin educación. El consumidor informado ya llega a las dosis correctas, pero por un camino feo.
+
+**Nuestro producto no compite por dosis contra Puravida, compite por dosis. Y no compite por experiencia contra la manipulación, compite por experiencia.** Los dos huecos son distintos y los dos están abiertos.
+
+### 7.4 Ninguna marca de la región es monotemática de sueño
+
+| Marca | País | Por qué no lo es |
+|---|---|---|
+| Puravida, Essential Nutrition, Vitafor, Dux, Growth | Brasil | Catálogos amplios de bienestar o deporte |
+| **Dose Of** | México | **El más cercano, pero es explícitamente bipolar: "café con hongos y cacao para dormir".** Marca de rituales de día y de noche |
+| Birdman, CellX, Reset | México | Proteína, longevidad, deporte |
+| Vitálica, Wellu, Naturitas | Colombia y México | Son tiendas con góndola de sueño, no marcas |
+
+La afirmación es sólida para Brasil y México, que concentran el grueso del gasto de la región. Es probable pero no probada para Chile, Colombia y Perú, y no se investigó Uruguay.
+
+### 7.5 El precio converge en un dólar por toma, en todo el mundo
+
+| Mercado | Precio por toma |
+|---|---|
+| Japón | USD 0,39 a 1,24 |
+| Estados Unidos | USD 1,00 a 1,50 |
+| Europa y Oceanía | USD 1,15 a 1,75 |
+| Brasil y México | USD 0,93 a 1,11 |
+| Corea | USD 1,07 |
+
+Es una de las convergencias más limpias de toda la investigación. **La categoría se vende cerca de un dólar por noche en todas partes**, con fórmulas en general menos dosificadas que la nuestra.
+
+### 7.6 Regulación comparada
+
+| | Brasil | México | Argentina |
+|---|---|---|---|
+| Autorización previa | **Sí**, lista positiva de constituyentes | **No**, régimen de aviso | Lista positiva, restrictiva |
+| Claims | **Lista cerrada**, no se puede redactar texto propio | Libre salvo lo terapéutico | Restrictivo |
+| Melatonina | **0,21 mg diarios**, solo adultos, **sin ningún claim permitido** | Permitida, se vende en gomitas en Costco | Venta libre a 3 mg |
+| L-teanina 200 mg | **Riesgo.** Solo aparece vía manipulación; el líder usa cero y el segundo usa 100 mg | Permitida y muy vendida | **Precedente nacional a 200 mg** |
+| Veredicto de entrada | Difícil | **El más fácil de la región** | Intermedio |
+
+Dato útil para más adelante: si alguna vez expandimos, **México es el mercado de entrada natural** para esta fórmula exacta, porque no exige aprobación previa y los tres ingredientes circulan sin problema.
+
+---
+
+## 8. Lecturas para nuestro producto
 
 | Decisión nuestra | Qué dice el mercado mundial | Acción |
 |---|---|---|
 | Glicina 3.000 mg libre | Ajinomoto construyó una categoría entera sobre esta dosis y la sostiene hace más de diez años | Confirmada |
 | L-teanina 200 mg | Es la dosis de los ensayos y el recorte más común de la competencia es bajarla a 112 mg | Confirmada, y es nuestro punto de diferencia |
 | Magnesio 250 mg elemental | Nadie lo combina con glicina a dosis clínica en etiqueta limpia | Confirmada, y hay que declararlo como elemental al frente |
-| Etiqueta de solo tres ingredientes | **Sin precedente en el mundo.** Ni Ajinomoto ni Thorne lo hacen | Mantener como objetivo, con panel de cata obligatorio y ácido cítrico como plan B de un solo renglón |
+| Etiqueta de solo tres ingredientes | **Sin precedente para esta fórmula.** Ni Ajinomoto ni Thorne ni Blackmores lo hacen. El único que vende la promesa de cero excipientes es Project Life, en Corea, y su fórmula es más simple que la nuestra | Mantener como objetivo, con panel de cata obligatorio y ácido cítrico como plan B de un solo renglón |
+| Sabor | **Es la queja número uno del segmento polvo en todo el mundo.** El único producto con glicina 3 g más magnesio, Blackmores, recibe tanto "me encanta el sabor" como "sabor dulce atroz" | Es la decisión que más riesgo tiene. Resolverla antes de escribir una sola línea de marketing |
+| Disolución | Moon Juice convirtió la disolución perfecta en requisito mínimo de la categoría. Compradores de bisglicinato a granel reportan que "se endurece y no se mezcla" | Bisglicinato micronizado es obligatorio, no opcional |
 | Disolver en agua | La categoría japonesa se toma en seco y por eso necesita aroma. Disolver nos ayuda | Confirmada |
 | Sobre monodosis | Reseñas de polvo a granel se quejan de lo incómodo de dosificar desde la bolsa | Confirmada |
 | Promesa de marketing | Las reseñas reales hablan de **la mañana siguiente**, no de dormirse rápido | Mover el mensaje principal hacia el despertar y la energía diurna |
@@ -295,9 +451,9 @@ Un sobre con 3 g de glicina tiene costo de materia prima mayor que un comprimido
 
 ---
 
-## 7. La advertencia comercial más fuerte
+## 9. La advertencia comercial más fuerte
 
-En las tres geografías, la queja dominante es **"no me hizo efecto"**, y aparece incluso en el producto del líder mundial con la evidencia más sólida. Eso significa dos cosas:
+En todas las geografías, la queja dominante es **"no me hizo efecto"**, y aparece incluso en el producto del líder mundial con la evidencia más sólida. Eso significa dos cosas:
 
 1. Una parte de los compradores no va a notar nada. Es inherente a la categoría, no un defecto nuestro.
 2. **La gestión de expectativas es el producto tanto como la fórmula.** Las reseñas japonesas muestran que quien espera dos a cuatro semanas con horario fijo puntúa bien, y quien abandona en la primera semana puntúa mal. Nuestro onboarding tiene que decir desde el primer día que la noche 1 da relajación, y que lo bueno llega a la semana 2.
@@ -306,7 +462,7 @@ Esto conecta directo con la recompra: el cliente que entiende la cronología lle
 
 ---
 
-## 8. Fuentes
+## 10. Fuentes
 
 - [Ajinomoto Glyna, sitio oficial](https://www.ajinomoto.co.jp/glyna/) y [Ajinomoto Direct](https://direct.ajinomoto.co.jp/supplement/glyna/)
 - [Reseñas y evaluación de Glyna, Rank King](https://rank-king.jp/article/17750) y [Saprog](https://lifeselect.jp/products/ajinomoto-glyna)
@@ -320,3 +476,20 @@ Esto conecta directo con la recompra: el cliente que entiende la cronología lle
 - [ConsumerLab, análisis de suplementos de glicina](https://www.consumerlab.com/news/best-glycine-supplements/04-24-2025/)
 - [Mercado de suplementos para dormir, proyección a 2035](https://www.datamintelligence.com/research-report/sleep-supplements-market)
 - [Sleepy girl mocktail, The Conversation](https://theconversation.com/turns-out-the-viral-sleepy-girl-mocktail-is-backed-by-science-should-you-try-it-222151)
+- Asia: [LABO Sleep DR](https://www.lifestreamgroup.com/sleep-dr-full), [Setu Sleep + Recovery](https://setu.in/products/sleep-recovery-triple-magnesium-complex), [Project Life L-teanina](https://projectlife.co.kr/product/l-%ED%85%8C%EC%95%84%EB%8B%8C/27/), [ranking de teanina en Corea](https://www.pillyze.com/ranking/nutrients/930)
+- Europa y Oceanía: [Blackmores Sleep Sound](https://www.blackmores.com.au/products/sleep-sound-magnesium) y sus [reseñas](https://supplemento.com.au/r/blackmores-sleep-sound-magnesium-reviews), [Glicinox](https://velafarmaceutici.com/prodotto/glicinox/), [Mag Theanine en el registro australiano](https://www.tga.gov.au/resources/artg/443750), [Viridian Cherry Night](https://www.amazon.co.uk/Viridian-Cherry-Night-Powder-150g/dp/B00J5YUDRW), [HSN glicina en polvo](https://www.hsnstore.com/marcas/raw-series/glicina-en-polvo), [Reglamento europeo de claims 432/2012](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:136:0001:0040:en:PDF)
+- Latinoamérica: [Dose Of](https://takeadoseof.com/), [Puravida Blue Calm en sobre](https://www.puravida.com.br/blue-calm-sache-70502), [reclamo por manipulación de reseñas](https://www.reclameaqui.com.br/puravida/empresa-manipula-avaliacoes-dos-produtos_w30DuH79NTMe2f_O/), [reclamo por efecto estimulante](https://www.reclameaqui.com.br/puravida/puravida-blue-calm-efeito-estimulante_knjPepiQBRc6f5Pr/), [L-teanina 200 mg en farmacia de manipulación](https://www.farmaciaalquimia.com.br/saude/l-teanina-200mg-l-theanine-120-doses), [Glicina 3 g](https://www.doctorspharmacy.com.br/glicina-3g/p), [melatonina a 0,21 mg en Brasil](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2021/anvisa-autoriza-a-melatonina-na-forma-de-suplemento-alimentar), [marco de COFEPRIS](https://www.gob.mx/cofepris/acciones-y-programas/marco-juridico-para-suplementos-alimenticios)
+- Argentina: [Nutrifarma Teanina 200 mg](https://www.farmacialeloir.com.ar/625-teanina-x-30-comprimidos) y su [lanzamiento](https://www.rionegro.com.ar/nutrifarma-presenta-en-la-argentina-los-primeros-comprimidos-de-teanina-FQRN_7626650/), [Stress Killer](https://leguilab.com/producto/stress-killer/), [Bagó+ Descanso](https://bagomas.com.ar/suplemento-descanso/), [Vitamin Way Relax Noche](https://www.guiavitaminway.com.ar/index.php/sueno-stress/relax-noche), [glicina USP a granel](https://everydaynature.com.ar/producto/glicina-glicocola-pura-usp-everyday-nature/), [Dormirte en sobres](https://www.rappi.com.ar/p/dormirte-x5-sobres-difenhidramina-2-631386)
+
+---
+
+## 11. Qué quedó sin verificar
+
+| Prioridad | Pendiente |
+|---|---|
+| Alta | **Mag Theanine de Bio Concepts, Australia.** Sobre el papel es la fórmula más parecida del mundo. Faltan dosis, formato, canal y precio |
+| Alta | **Dosis en miligramos de Dose Of, México.** Sin eso no sabemos si es competidor real o subdosificado |
+| Alta | **Reseñas de clientes de los productos asiáticos.** Todos los dominios de comercio estaban bloqueados, así que esa columna está vacía |
+| Media | Si existe algún stick de glicina sin aditivos de marca pequeña en Rakuten. Es el dato que más nos importa para la versión A |
+| Media | Texto normativo argentino sobre glicina y L-teanina, que sigue sin leerse de primera fuente |
+| Baja | Hong Kong, Tailandia, Golfo y Uruguay, sin cobertura |

@@ -63,6 +63,15 @@ Se revisó cada decisión de la fórmula contra los ensayos originales. La estru
 
 **Plan:** pedir al laboratorio dos prototipos. Versión A, solo tres ingredientes, es el objetivo y se lanza si el panel la aprueba (menos del 30% de rechazo). Versión B, con aroma natural y ácido cítrico en la mínima cantidad, se guarda como respaldo o como segundo sabor futuro. No se prueba ninguna versión con azúcar ni polialcoholes.
 
+**Qué dice el mercado mundial sobre esta decisión** (ver `docs/mercado/01-competencia-mundial-v1.md`):
+
+- **Nadie vende un polvo de glicina sin aditivos.** Ajinomoto, líder mundial de la categoría con más de diez años de historia, usa glicina + ácido cítrico + aroma. Thorne, marca premium de etiqueta limpia, agrega ácido cítrico y fruto del monje a su bisglicinato de magnesio en polvo. Nuestra versión A es más ambiciosa que el estándar de la industria.
+- **La solución de las marcas premium no es endulzar, es acidificar.** Como la glicina ya es dulce, agregan ácido cítrico para cortar el dulzor empalagoso. Asahi lo declara: sin aroma, se percibe el dulzor de la glicina y la acidez del cítrico. Esto confirma que el ácido cítrico es el plan B correcto, y que **los endulzantes están bien descartados**.
+- **Existe un precedente de etiqueta limpia, y es coreano.** Project Life vende un stick en polvo declarando "sin aditivos sintéticos, sin endulzantes, sin azúcar, sin excipientes", y esa promesa es su propuesta central de venta. Demuestra que el atributo se puede vender, aunque su fórmula lleva un cuarto ingrediente de aroma.
+- **Nadie tiene nuestro problema sensorial.** Ningún stick de glicina del mundo lleva magnesio. Los 1.780 mg de bisglicinato son la diferencia entre su stick de 3,1 g y nuestro sobre de 5 g, y son la parte amarga y poco soluble. **El precedente extranjero no nos cubre: el panel de cata decide.**
+- **El riesgo de sedimento está confirmado por reseñas reales.** Compradores de bisglicinato de magnesio en polvo a granel reportan que "no se disuelve en agua y se endurece, así que no lo podés mezclar con nada". El bisglicinato micronizado no es un detalle de especificación, es el punto que decide la versión A.
+- **La disolución es requisito mínimo, no diferencial.** Moon Juice construyó su reputación sobre disolverse perfecto y la categoría ya lo da por sentado. Un polvo que deje residuo se castiga en las reseñas.
+
 | Excipientes | Versión A (objetivo) | Versión B (respaldo) |
 |---|---|---|
 | Azúcar agregada | 0 g | 0 g |
@@ -101,8 +110,10 @@ Peso aproximado del sobre en versión A: aprox. 5,0 g (3.000 mg de glicina + apr
 
 ## 5. Pendientes antes de producir
 
-1. Confirmar con el laboratorio o Director Técnico el tope de L-teanina admitido en el art. 1381 del CAA. Si 200 mg no fuera admisible, la fórmula pierde un pilar y hay que rediseñar.
-2. Confirmar el límite superior vigente de magnesio para suplementos y el cálculo de porcentaje de IDR para el rotulado.
-3. Prueba de disolución, sedimentación y fluidez de llenado de la versión A (solo tres ingredientes) con bisglicinato micronizado. Si sedimenta de forma inaceptable, evaluar granulometría más fina antes que agregar excipientes.
-4. Panel sensorial de al menos 10 personas del público objetivo comparando versión A (sin aroma) y versión B (aroma natural). Criterio: se lanza la A si el rechazo es menor al 30%.
-5. Estudio de estabilidad acelerado (3 meses) para fijar vencimiento inicial de 18 a 24 meses.
+1. Confirmar con el laboratorio o Director Técnico el tope de L-teanina admitido en el art. 1381 del CAA. **Riesgo rebajado:** la investigación de mercado encontró un suplemento dietario nacional, Nutrifarma Teanina, que vende **200 mg de L-teanina por comprimido, un comprimido por día**, en farmacias argentinas, más una nota de prensa sobre el lanzamiento de los primeros comprimidos de teanina del país. Existe precedente registrado a nuestra dosis. Falta confirmar el texto normativo, pero la pregunta al laboratorio ahora se hace desde una posición mucho más fuerte.
+2. **Nuevo riesgo principal: la glicina a 3.000 mg.** No se encontró ningún producto argentino registrado que la use a esa dosis para dormir. Se vende glicina pura USP en polvo a granel, como insumo deportivo, con dosis sugeridas de 3 a 5 g diarios, lo que sugiere que el ingrediente circula sin problema. Pero el precedente de producto terminado no existe. Este es hoy el punto regulatorio más incierto del MVP y hay que cerrarlo primero.
+3. Confirmar el límite superior vigente de magnesio para suplementos y el cálculo de porcentaje de IDR para el rotulado.
+4. Prueba de disolución, sedimentación y fluidez de llenado de la versión A (solo tres ingredientes) con bisglicinato micronizado. Si sedimenta de forma inaceptable, evaluar granulometría más fina antes que agregar excipientes.
+5. Panel sensorial de al menos 10 personas del público objetivo comparando versión A (sin aroma) y versión B (aroma natural). Criterio: se lanza la A si el rechazo es menor al 30%.
+6. Estudio de estabilidad acelerado (3 meses) para fijar vencimiento inicial de 18 a 24 meses.
+7. Validar que el consumidor argentino acepte el formato. El único producto nocturno en sobre del mercado local es un antihistamínico, así que la costumbre es el comprimido. El formato nos diferencia, pero no hay evidencia local de que la gente quiera disolver un polvo de noche.

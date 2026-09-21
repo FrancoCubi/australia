@@ -77,9 +77,9 @@ Indicar cantidad mínima de producción y si el precio incluye o no los excipien
 
 Regulatorias:
 
-1. ¿Tienen experiencia registrando suplementos dietarios con L-teanina? ¿Cuál es la dosis máxima diaria de L-teanina admitida hoy por el CAA (art. 1381) o por ANMAT en la práctica? Este punto es decisivo para nosotros.
-2. ¿Cuál es el límite superior de magnesio elemental que hoy admite el art. 1381 para suplementos, y qué leyenda de rotulado corresponde con 250 mg?
-3. ¿Confirman que la glicina está en la tabla de aminoácidos permitidos y que 3.000 mg libres más aprox. 1.500 mg provenientes del quelato (aprox. 4.500 mg totales) quedan dentro del tope?
+1. ¿Tienen experiencia registrando suplementos dietarios con L-teanina? ¿Cuál es la dosis máxima diaria de L-teanina admitida hoy por el CAA (art. 1381) o por ANMAT en la práctica? Nos consta que hay al menos un suplemento dietario nacional en el mercado con 200 mg de L-teanina por comprimido y una toma diaria, así que entendemos que nuestra dosis tiene precedente. Les pedimos que nos confirmen el límite formal y la norma que lo fija.
+2. **Punto decisivo para nosotros: la glicina.** ¿Confirman que la glicina está en la tabla de aminoácidos permitidos para suplementos dietarios y que 3.000 mg libres, más aprox. 1.500 mg provenientes del quelato (aprox. 4.500 mg totales), quedan dentro del tope diario? ¿Han registrado antes un suplemento dietario con glicina a esta dosis? Si el tope fuera menor, necesitamos saberlo antes que cualquier otra cosa.
+3. ¿Cuál es el límite superior de magnesio elemental que hoy admite el art. 1381 para suplementos, y qué leyenda de rotulado corresponde con 250 mg?
 4. ¿Cuál es el plazo estimado desde la aprobación de la fórmula hasta la obtención del RNPA?
 5. ¿Pueden certificar el producto como "Sin TACC"? ¿Qué implica en costo y plazo?
 
