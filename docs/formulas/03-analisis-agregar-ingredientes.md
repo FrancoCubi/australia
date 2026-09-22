@@ -18,7 +18,7 @@ Aviso de método: todos los dominios de revistas científicas y de ANMAT están 
 | **Azafrán 14 a 20 mg** | **Implementar con matices** | Es el único agregado que sube el nivel de evidencia, sujeto a cuatro condiciones |
 | L-triptófano ≥1 g | **Implementar con matices, fase 2** | Tiene meta-análisis, pero agrega 1 g de volumen y arrastra el antecedente de contaminación de 1989 |
 | Cereza ácida, kiwi, Lactium, Silexan, Ecklonia, salvado de arroz, ziziphus, magnolia | **No la deberíamos implementar** | Ensayos únicos y pequeños, formato incompatible, o efecto mediado por ansiedad y no por sueño |
-| Subir L-teanina de 200 a 300-400 mg | **No por ahora** (ver sección 6, donde discrepo del análisis) | Sin evidencia de dosis-respuesta y supera el único precedente argentino registrado |
+| Subir L-teanina de 200 a 400 mg | **No por ahora** (ver sección 6) | No hay comparación directa 200 contra 400. Los 200 mg vienen de un ensayo en adultos con mal sueño; los 400 mg, de uno en chicos con TDAH |
 
 ---
 
@@ -118,6 +118,24 @@ El resto es manual: diez o más activos, la glicina recortada un tercio, y ning�
 
 ## 5. Azafrán: el único agregado que vale
 
+### 5.0 Respuesta directa: ¿hay evidencia de que mejora la calidad del sueño?
+
+**Sí.** Es el ingrediente con mejor evidencia de todos los que analizamos en este proyecto, incluidos los tres que ya están en la fórmula.
+
+| | |
+|---|---|
+| Diseño | Meta-análisis de ensayos aleatorizados controlados con placebo |
+| Personas | **611** en 8 ensayos |
+| Calidad del sueño (PSQI) | **−2,14 puntos** (intervalo de confianza −2,86 a −1,42), p<0,01 |
+| Severidad del insomnio (ISI) | **−2,63 puntos**, p<0,01 |
+| Sueño reparador (RSQ) | **+7,05 puntos** |
+
+Es estadísticamente sólido y consistente entre estudios. No es un solo ensayo chico ni un mecanismo teórico.
+
+**Pero el tamaño del efecto está por debajo del umbral en que una persona percibe el cambio como relevante.** Ver sección 7 para los umbrales y para la comparación con el resto de la categoría. En una frase: el azafrán mejora el sueño de forma medible y repetida, por una cantidad real pero chica.
+
+Las dos advertencias que hay que sostener: varios de los ensayos incluidos tienen riesgo de sesgo moderado, y casi todos los financia el fabricante del extracto.
+
 ### 5.1 La evidencia
 
 | Estudio | n | Dosis | Resultado | Financiamiento |
@@ -148,27 +166,62 @@ La diferencia es de escala: el azafrán tiene **ocho ensayos agrupados de varios
 
 ---
 
-## 6. Dónde discrepo del propio análisis: la dosis de teanina
+## 6. La dosis de L-teanina, revisada
 
-El análisis recomienda subir la L-teanina de 200 a 300 o 400 mg, por ser la mejora de evidencia más barata y quedar dentro del rango de 200 a 450 mg de la revisión sistemática.
+El análisis inicial recomendaba subir la L-teanina de 200 a 300 o 400 mg. Yo objeté por motivo regulatorio. **El fundador corrigió esa premisa: Argentina admite niveles equivalentes a los de Estados Unidos, así que el tope no es el obstáculo.** Retiro esa objeción.
 
-**No estoy de acuerdo para el mercado argentino, y el motivo es regulatorio, no científico.**
+Queda entonces la condición que él mismo puso: subirla solo si hay evidencia de que mejora la fórmula. **Esa condición no se cumple.**
 
-| Referencia | Dosis |
-|---|---|
-| Rango de la revisión sistemática 2025 | 200 a 450 mg |
-| Dosis aprobada por el regulador coreano | **200 a 250 mg diarios**, reafirmada sin cambios en 2023 |
-| Único precedente registrado en Argentina (Nutrifarma) | **200 mg diarios** |
-| Evidencia de que 400 mg supere a 200 mg | **Ninguna comparación directa** |
+| Ensayo | Dosis | Población |
+|---|---|---|
+| **Hidese 2019** | **200 mg** | **Adultos con quejas de sueño** |
+| Lyon 2011 | 400 mg | **Varones de 8 a 12 años con TDAH** |
+| Rango de la revisión sistemática 2025 | 200 a 450 mg | Mezcla de poblaciones |
+| Comparación directa 200 contra 400 mg | **No existe ninguna** | — |
 
-El tope argentino de L-teanina es nuestra segunda incógnita regulatoria. Subir por encima del único precedente nacional que encontramos, sin ninguna evidencia de dosis-respuesta que lo justifique, es un mal canje. **Se queda en 200 mg.**
+El punto decisivo no es el número, es de quién salió. **Los 200 mg vienen de un ensayo en adultos con problemas de sueño, que es exactamente nuestro usuario. Los 400 mg vienen de un ensayo en chicos de 8 a 12 años con TDAH.** Subir la dosis significa mudarse del ensayo que coincide con nuestro cliente a uno que no.
+
+Dos matices honestos a favor de subir:
+
+- Las fuentes sugieren que las dosis más altas podrían ayudar algo más a personas sensibles al estrés, y nuestro público principal son profesionales estresados. Es una inferencia razonable, no un ensayo.
+- Por encima de 400 mg hay rendimientos decrecientes y somnolencia leve en personas sensibles.
+
+**Decisión: se queda en 200 mg para la versión 1.** Si alguna vez la subimos, que sea a **400 mg, que es una dosis efectivamente estudiada, y nunca a 300, que es un número que no probó nadie.**
 
 ---
 
-## 7. Recomendación
+## 7. Qué significan los números: el umbral de relevancia clínica
+
+Esta sección se agrega porque el fundador señaló, con razón, que listar estudios no contesta si un ingrediente mejora el sueño.
+
+Las escalas que usan estos ensayos tienen un umbral conocido a partir del cual la persona percibe el cambio como significativo.
+
+| Escala | Rango | Umbral de cambio clínicamente relevante |
+|---|---|---|
+| PSQI (calidad del sueño) | 0 a 21, más alto es peor | Entre 2,5 y 4,4 puntos según el estudio, se usa **3** como referencia habitual |
+| ISI (severidad del insomnio) | 0 a 28 | **6 puntos o más** |
+
+Ahora los resultados reales, contra esos umbrales:
+
+| Ingrediente | Resultado | Umbral | ¿Lo supera? |
+|---|---|---|---|
+| **Azafrán** (meta-análisis, 611 personas) | PSQI **−2,14**; ISI **−2,63** | 3 y 6 | **No, queda por debajo de los dos** |
+| **Magnesio bisglicinato** (ensayo, 155 personas) | ISI −3,9 contra −2,3 de placebo, **neto −1,6** | 6 | **No** |
+| **Melatonina** (más de 400 estudios) | 7 a 12 minutos menos para dormirse | — | Efecto modesto reconocido |
+
+**Conclusión que hay que tener siempre presente: ningún ingrediente natural para dormir, y tampoco la melatonina, supera el umbral de cambio clínicamente relevante.** No es un defecto de nuestra fórmula, es el techo de toda la categoría.
+
+Esto tiene dos consecuencias prácticas:
+
+1. **Para el marketing.** Podemos decir con honestidad que el efecto es real, medido y repetido. No podemos decir que se nota mucho. La frase correcta es "una mejora real pero modesta", y quien espere un noqueo se va a decepcionar y va a dejar reseñas malas.
+2. **Para las decisiones de fórmula.** Si nada supera el umbral, agregar ingredientes para "sumar efecto" tiene aún menos sentido. Lo que sí se puede ganar es confiabilidad, honestidad y adherencia, que son las variables que mueven la recompra.
+
+---
+
+## 8. Recomendación
 
 1. **El magnesio no se toca.** Bisglicinato, forma única, 250 mg elementales. Es lo único de la fórmula que coincide con un ensayo publicado forma por forma y dosis por dosis.
-2. **La L-teanina se queda en 200 mg**, por el precedente regulatorio argentino.
+2. **La L-teanina se queda en 200 mg**, porque es la dosis ensayada en adultos con problemas de sueño. Si se sube alguna vez, a 400 mg y nunca a 300.
 3. **El azafrán se evalúa, en este orden:** confirmar el Anexo I, después pedir cotización mayorista, después prueba sensorial y de fotoestabilidad en el sobre real. Si pasa los tres, entra a 14 a 20 mg como **cuarto y último** ingrediente.
 4. **Nada más entra sin meta-análisis o dos ensayos independientes.** Ese es el umbral, por escrito.
 5. **Honestidad interna sobre la glicina.** Se queda por seguridad, costo y plausibilidad mecanicista, pero no es nuestro ancla de evidencia y el marketing no la puede tratar como tal.
@@ -177,7 +230,7 @@ Y la aclaración que la marca tiene que seguir haciendo: la intervención con m�
 
 ---
 
-## 8. Lo que quedó sin verificar
+## 9. Lo que quedó sin verificar
 
 | Prioridad | Pendiente |
 |---|---|
